@@ -22,6 +22,10 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: JSON file for data storage
 Unique ID Generation: npm package for generating unique IDs
+
+![image](https://github.com/user-attachments/assets/31dcc62a-1449-43ea-940e-7625f5040421)
+
+
 ## Installation
 To set up the project locally, follow these steps:
 
